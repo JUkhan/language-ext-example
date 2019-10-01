@@ -1,0 +1,15 @@
+/Users/jukhan/Projects/contoso/Contoso.Core/bin/Debug/netcoreapp3.0/Contoso.Core.deps.json
+/Users/jukhan/Projects/contoso/Contoso.Core/bin/Debug/netcoreapp3.0/Contoso.Core.dll
+/Users/jukhan/Projects/contoso/Contoso.Core/bin/Debug/netcoreapp3.0/Contoso.Core.pdb
+/Users/jukhan/Projects/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.AssemblyInfoInputs.cache
+/Users/jukhan/Projects/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.AssemblyInfo.cs
+/Users/jukhan/Projects/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.dll
+/Users/jukhan/Projects/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.pdb
+/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/bin/Debug/netcoreapp3.0/Contoso.Core.deps.json
+/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/bin/Debug/netcoreapp3.0/Contoso.Core.dll
+/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/bin/Debug/netcoreapp3.0/Contoso.Core.pdb
+/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.csprojAssemblyReference.cache
+/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.AssemblyInfoInputs.cache
+/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.AssemblyInfo.cs
+/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.dll
+/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/obj/Debug/netcoreapp3.0/Contoso.Core.pdb
