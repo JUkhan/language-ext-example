@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/Contoso.Core.csproj": {}
+    "/Users/jukhan/Desktop/language-ext-example/Contoso.Core/Contoso.Core.csproj": {}
   },
   "projects": {
-    "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/Contoso.Core.csproj": {
+    "/Users/jukhan/Desktop/language-ext-example/Contoso.Core/Contoso.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/Contoso.Core.csproj",
+        "projectUniqueName": "/Users/jukhan/Desktop/language-ext-example/Contoso.Core/Contoso.Core.csproj",
         "projectName": "Contoso.Core",
-        "projectPath": "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/Contoso.Core.csproj",
+        "projectPath": "/Users/jukhan/Desktop/language-ext-example/Contoso.Core/Contoso.Core.csproj",
         "packagesPath": "/Users/jukhan/.nuget/packages/",
-        "outputPath": "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Core/obj/",
+        "outputPath": "/Users/jukhan/Desktop/language-ext-example/Contoso.Core/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/jukhan/.config/NuGet/NuGet.Config"
+          "/Users/jukhan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

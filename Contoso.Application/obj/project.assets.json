@@ -2373,17 +2373,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Application/Contoso.Application.csproj",
+      "projectUniqueName": "/Users/jukhan/Desktop/language-ext-example/Contoso.Application/Contoso.Application.csproj",
       "projectName": "Contoso.Application",
-      "projectPath": "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Application/Contoso.Application.csproj",
+      "projectPath": "/Users/jukhan/Desktop/language-ext-example/Contoso.Application/Contoso.Application.csproj",
       "packagesPath": "/Users/jukhan/.nuget/packages/",
-      "outputPath": "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Application/obj/",
+      "outputPath": "/Users/jukhan/Desktop/language-ext-example/Contoso.Application/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/jukhan/.config/NuGet/NuGet.Config"
+        "/Users/jukhan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -2394,8 +2394,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Infrastructure/Contoso.Infrastructure.csproj": {
-              "projectPath": "/Users/jukhan/Desktop/language-ext-example/contoso/Contoso.Infrastructure/Contoso.Infrastructure.csproj"
+            "/Users/jukhan/Desktop/language-ext-example/Contoso.Infrastructure/Contoso.Infrastructure.csproj": {
+              "projectPath": "/Users/jukhan/Desktop/language-ext-example/Contoso.Infrastructure/Contoso.Infrastructure.csproj"
             }
           }
         }

@@ -10,7 +10,7 @@ using System.Linq;
 
 namespace Contoso.Application.Students.Queries
 {
-    public class GetAllStudentsHandler: IRequestHandler<GetAllStudents, List<StudentViewModel>>
+    public class GetAllStudentsHandler : IRequestHandler<GetAllStudents, IEnumerable<StudentViewModel>>
     {
         private readonly IStudentRepository _studentRepository;
         public GetAllStudentsHandler(IStudentRepository studentRepository)
@@ -18,9 +18,11 @@ namespace Contoso.Application.Students.Queries
             _studentRepository = studentRepository;
         }
 
-        public async Task<List<StudentViewModel>> Handle(GetAllStudents request, CancellationToken cancellationToken)
+        public async Task<IEnumerable<StudentViewModel>> Handle(GetAllStudents request, CancellationToken cancellationToken)
         {
-            return (await this._studentRepository.GetAll()).Map(ProjectToViewModel).ToList();
+
+            return (await this._studentRepository.GetAll())
+            .Map(ProjectToViewModel);
         }
     }
 }

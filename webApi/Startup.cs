@@ -48,12 +48,12 @@ namespace webApi
                 app.UseDeveloperExceptionPage();
             }
 
-            //app.UseSwagger();
-            /*app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Contoso University V1");
-                c.RoutePrefix = string.Empty;
-            });*/
+            // app.UseSwagger();
+            // app.UseSwaggerUI(c =>
+            // {
+            //     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Contoso University V1");
+            //     c.RoutePrefix = string.Empty;
+            // });
 
             app.UseHttpsRedirection();
 
@@ -70,7 +70,7 @@ namespace webApi
         private void CustomServices(IServiceCollection services)
         {
             services.AddScoped<IStudentRepository, StudentRepository>();
-            
+
         }
     }
 }

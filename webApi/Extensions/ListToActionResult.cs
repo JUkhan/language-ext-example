@@ -8,8 +8,9 @@ namespace webApi.Extensions
 {
     public static class ListToActionResult
     {
-        public static IActionResult ToActionResult<T>(this List<T> data) => new OkObjectResult(data);
-        public static Task<IActionResult> ToActionResult<T>(this Task<List<T>> data) =>
+        public static IActionResult ToActionResult<T>(this IEnumerable<T> data) =>
+             new OkObjectResult(data);
+        public static Task<IActionResult> ToActionResult<T>(this Task<IEnumerable<T>> data) =>
             data.Map(ToActionResult);
     }
 }
